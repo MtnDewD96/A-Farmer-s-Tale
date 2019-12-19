@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{A5E369D4-7E1D-7424-C5AC-5345B5A77EBF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PauseMenu.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="66" Column="55" />
+      <File FileName="Assets/Scripts/Arrow.cs" />
+      <File FileName="Assets/Scripts/PlayerAim.cs" />
+      <File FileName="Assets/Scripts/Inventory/InventorySlot.cs" Line="44" Column="73" />
+      <File FileName="Assets/Scripts/Inventory/PlayerInventory.cs" Line="5" Column="84" />
+      <File FileName="Assets/Scripts/Inventory/InventoryManager.cs" Line="57" Column="31" />
+      <File FileName="Assets/Scripts/Inventory/InventoryItem.cs" Line="25" Column="16" />
+      <File FileName="Assets/Scripts/PauseMenu.cs" Line="20" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProjectFluffy" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a6f47e34-243f-41c5-9332-ead89a1e4e10" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
